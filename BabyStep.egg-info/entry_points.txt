@@ -1,2 +1,2 @@
 [console_scripts]
-mandoline = mandoline:main
+BabyStep = BabyStep

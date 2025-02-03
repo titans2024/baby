@@ -36,9 +36,6 @@ setup(
         'Topic :: Multimedia :: Graphics :: 3D Modeling',
     ],
     keywords='baby sorting and search',
-    entry_points={
-        'console_scripts': ['mandoline=mandoline:main'],
-    },
     install_requires=[
         'setuptools',
     ],
