@@ -1,8 +1,6 @@
 LICENSE
 README.md
-list.py
 pyproject.toml
-search.py
 setup.cfg
 setup.py
 BabyStep.egg-info/PKG-INFO
